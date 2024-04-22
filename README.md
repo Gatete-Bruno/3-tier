@@ -1,4 +1,5 @@
-# The three-tier architecture is a software architecture pattern that divides an application into three separate logical layers, each responsible for specific functionalities. 
+#  three-tier 
+architecture is a software architecture pattern that divides an application into three separate logical layers, each responsible for specific functionalities. 
 
 These layers are:
 
