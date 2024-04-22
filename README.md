@@ -1,4 +1,4 @@
-#  three-tier 
+#  three-tier Blog-11
 architecture is a software architecture pattern that divides an application into three separate logical layers, each responsible for specific functionalities. 
 
 These layers are:
