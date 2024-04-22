@@ -9,6 +9,6 @@ These layers are:
 
 **Data Tier (or Data Storage Tier):** This tier is responsible for storing and managing the application's data. It includes databases, file systems, or any other data storage mechanism. The data tier provides persistence for the application's data and is accessed by the application tier to retrieve or modify data based on user requests.
 
-**Why ? **
+**Why ?**
 
 The three-tier architecture separates concerns and promotes modularity, scalability, and maintainability in software applications. Each tier can be developed, deployed, and scaled independently, allowing for easier management and evolution of the system. Additionally, this architecture facilitates reusability of components and promotes a clear separation of concerns, making it easier to develop, test, and maintain the application over time.
