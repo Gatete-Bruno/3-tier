@@ -1,3 +1,6 @@
+
+![image](https://github.com/Gatete-Bruno/3-tier/assets/64279605/aa700bcb-4460-4f9b-8d85-695919d72b72)
+
 #  three-tier Blog-11
 architecture is a software architecture pattern that divides an application into three separate logical layers, each responsible for specific functionalities. 
 
